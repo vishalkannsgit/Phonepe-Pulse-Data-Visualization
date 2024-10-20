@@ -1,6 +1,5 @@
 # PhonePe Pulse Data Visualization
-
-![PhonePe Pulse Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.phonepe.com%2Fpress%2Fnorth-east-takes-the-lead-on-digitization-phonepe-pulse-q1-2022-data%2F&psig=AOvVaw2H2mdijAN5lV__nmP9AkmV&ust=1729520186911000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiMkqD0kp2JAxVZamwGHcaiAbIQjRx6BAgAEBk)
+![PhonePe Pulse Logo](https://github.com/vishalkannsgit/Phonepe-Pulse-Data-Visualization/blob/master/PhonePe.jpg)
 ## Project Overview
 The **PhonePe Pulse Data Visualization** project aims to provide insightful visualizations of transaction data from PhonePe, a leading digital payment platform in India. This project leverages Python and popular data visualization libraries to turn raw data into meaningful insights.
 
